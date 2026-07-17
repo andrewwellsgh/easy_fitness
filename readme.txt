@@ -6,6 +6,7 @@ tl;dr
 - Weight Training tracker
 - Assumes 8 RPE, 4 sets of 6 - 8 reps, sets for all exercises
 - Store an exercise name
+- Store how much you lift or pull or whatever the movement is
 - Optionally store pictures and a description if you have no memory like me
 - Make workout routines out of each exercise you store
 - When you level up, update easily, once, during workout, change info for all workouts
