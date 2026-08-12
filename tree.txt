@@ -1,0 +1,12 @@
+fitness-platform/
+├── backend/            # .NET Solution (C#)
+│   ├── src/
+│   │   ├── Application/  # MediatR handlers, DTOs
+│   │   ├── Domain/       # Entities (Workout, Exercise, Routine)
+│   │   └── Infrastructure/ # DB Context, Entity Framework
+├── frontend/           # Next.js App
+│   ├── src/
+│   │   ├── app/        # UI Pages
+│   │   ├── components/ # shadcn/ui components
+│   │   └── lib/        # API clients, Zod schemas
+└── infra/              # Terraform scripts for Azure
