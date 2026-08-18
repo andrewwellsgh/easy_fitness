@@ -1,6 +1,11 @@
 Stronk
 
 ###
+Running the app
+`cd frontend`
+`npm run dev`
+
+###
 tl;dr
 
 - Weight Training tracker
